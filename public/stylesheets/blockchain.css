@@ -30,11 +30,11 @@ input {
 }
 
 .well-success {
-  background: rgb(223, 240, 216);
+  background: rgb(102,255,127);
 }
 
 .well-error {
-  background: rgb(250, 220, 220);
+  background: rgb(255, 153, 153);
 }
 
 .github-ribbon {
